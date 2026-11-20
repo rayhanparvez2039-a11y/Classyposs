@@ -1,0 +1,7 @@
+{
+  "name": "classypos",
+  "version": "1.0.0",
+  "description": "ClassyPOS dress shop point of sale with login and shared database",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
